@@ -14,7 +14,7 @@ const conexion = mysql.createConnection({
 //Conexion test
 conexion.connect(function (error){
     if(error) throw error;
-    console.log('Conexion Done !')
+    console.log('Conexion Done !') //.......
 })
 
 const app = express()

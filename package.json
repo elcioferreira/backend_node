@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "backend_node": "file:",
     "bootstrap": "^5.3.3",
     "express": "^4.21.1",
     "express-handlebars": "^7.1.3",
